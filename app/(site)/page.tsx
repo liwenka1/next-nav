@@ -3,7 +3,7 @@ import Main from '@/components/main'
 
 export default function Home() {
   return (
-    <div className="flex h-full flex-col">
+    <div className="flex flex-col">
       <Header />
       <Main />
     </div>
