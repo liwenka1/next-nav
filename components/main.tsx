@@ -3,7 +3,7 @@ import LinkContent from './link-content'
 
 const Main = () => {
   return (
-    <main className="flex flex-1">
+    <main className="mt-12 flex">
       <Nav />
       <LinkContent />
     </main>
